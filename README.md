@@ -1,2 +1,5 @@
-# ---
-𝙃𝘼𝙕𝙀𝙈-𝘼𝙄
+
+HAZEM.AI Website Starter
+
+Upload these files to your GitHub repository.
+Then deploy using Vercel.
